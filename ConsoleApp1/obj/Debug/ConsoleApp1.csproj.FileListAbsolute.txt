@@ -1,0 +1,7 @@
+C:\Users\diman\test_repo\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\diman\test_repo\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\diman\test_repo\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\diman\test_repo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\diman\test_repo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\diman\test_repo\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\diman\test_repo\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
